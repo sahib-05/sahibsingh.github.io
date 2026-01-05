@@ -31,6 +31,17 @@ Experienced in building interactive dashboards using Power BI and Tableau to com
 - Tools: Python, SQL, Power BI  
 - Performed data cleaning, transformation, and exploratory data analysis.  
 - Built interactive Power BI dashboards to analyze customer purchasing patterns and trends.
+<table>
+  <tr>
+    <td><img src="Screenshot (30).png" width="400"></td>
+  </tr>
+</table>
+📄 **Project Documents**
+- [Business Problem Document](Business%20Problem%20Document.pdf)
+- [Final Analysis Report](Customer%20Shopping%20Behavior%20Analysis%20Report.pdf)
+
+🗄️ **SQL Queries**
+- [Customer Behavior SQL Queries](customer_behavior_sql_queries.sql)
 
 ### 📈 Madhav Sales Store Dashboard
 - Tool: Power BI  
@@ -67,7 +78,11 @@ Experienced in building interactive dashboards using Power BI and Tableau to com
 ### 📑 Sales & Profit Analysis
 - Tool: Excel  
 - Analyzed sales and profit data using formulas, pivot tables, and charts.
-
+<table>
+  <tr>
+    <td><img src="Screenshot (29).png" width="400"></td>
+  </tr>
+</table>
 
 ---
 
