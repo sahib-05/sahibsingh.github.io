@@ -60,6 +60,9 @@ Year of Completion: _(2026)_
 
 ## 📬 Contact
 - GitHub: https://github.com/sahib-05
+- Phone No.: 9818429891
+- E-mail : sahibsingh9968@gmail.com
+- https://www.linkedin.com/in/sahib-singh-b534b2271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
