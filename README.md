@@ -35,18 +35,39 @@ Experienced in building interactive dashboards using Power BI and Tableau to com
 ### 📈 Madhav Sales Store Dashboard
 - Tool: Power BI  
 - Created a sales and profit analysis dashboard to track performance across regions and categories.
-
+<table>
+  <tr>
+    <td><img src="Screenshot (21).png" width="400"></td>
+  </tr>
+</table>
+  
 ### 🎵 Spotify Data Analysis Dashboard
 - Tool: Power BI  
 - Analyzed music trends, top artists, and user preferences using interactive visualizations.
+<table>
+   <tr>
+    <td><img src="Screenshot (25).png" width="400"></td>
+    <td><img src="Screenshot (26).png" width="400"></td>
+    <td><img src="Screenshot (27).png" width="400"></td>
+    <td><img src="Screenshot (28).png" width="400"></td>
+  </tr>
+</table>
 
 ### 📊 Company Summary Report
 - Tool: Power BI  
 - Designed a summary dashboard showcasing KPIs and overall business performance.
-
+<table>
+  <tr>
+    <td><img src="company report-1.png.png" width="400"></td>
+    <td><img src="Screenshot (23).png" width="400"></td>
+    <td><img src="Screenshot (24).png" width="400"></td>
+  </tr>
+</table>
+ 
 ### 📑 Sales & Profit Analysis
 - Tool: Excel  
 - Analyzed sales and profit data using formulas, pivot tables, and charts.
+
 
 ---
 
