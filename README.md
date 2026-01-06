@@ -37,11 +37,12 @@ Experienced in building interactive dashboards using Power BI to communicate ins
   </tr>
 </table>
 📄 **Project Documents**
-- [Business Problem Document](Business%20Problem%20Document.pdf)
-- [Final Analysis Report](Customer%20Shopping%20Behavior%20Analysis%20Report.pdf)
+- [Business Problem Document](Business_Problem_Document.pdf)
+- [Final Analysis Report](Customer_Shopping_Behavior_Analysis_Report.pdf)
 
 🗄️ **SQL Queries**
 - [Customer Behavior SQL Queries](customer_behavior_sql_queries.sql)
+
 
 ### 📈 Madhav Sales Store Dashboard
 - Tool: Power BI  
