@@ -37,7 +37,7 @@ Experienced in building interactive dashboards using Power BI to communicate ins
   </tr>
 </table>
 📄 **Project Documents**
-- [Business Problem Document](Business_Problem_Document.pdf)
+- [Business Problem Document](https://sahib-05.github.io/sahibsingh.github.io/Business_Problem_Document.pdf)
 - [Final Analysis Report](Customer_Shopping_Behavior_Analysis_Report.pdf)
 
 🗄️ **SQL Queries**
