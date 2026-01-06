@@ -3,7 +3,7 @@
 ## 👨‍💼 Profile Summary
 Aspiring Data Analyst with strong academic exposure to data analysis and visualization.  
 Skilled in data cleaning, wrangling, and transformation using Python (Pandas, NumPy) and SQL.  
-Experienced in building interactive dashboards using Power BI and Tableau to communicate insights and support data-driven decisions.
+Experienced in building interactive dashboards using Power BI to communicate insights and support data-driven decisions.
 
 ---
 
@@ -16,7 +16,7 @@ Experienced in building interactive dashboards using Power BI and Tableau to com
 **Tools & Visualization**  
 - Excel  
 - Power BI  
-- Tableau  
+- Aws(amazon web services) 
 - Google Sheets  
 - Jupyter Notebook  
 
