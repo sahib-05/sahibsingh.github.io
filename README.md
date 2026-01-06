@@ -89,8 +89,8 @@ Experienced in building interactive dashboards using Power BI to communicate ins
 ## 🎓 Education
 
 **Bachelor of Computer Applications**  
-Economics(class 12 (commerce))
 Year of Completion: _(2026)_
+**Economics**(class 12 (commerce))
 
 ---
 
