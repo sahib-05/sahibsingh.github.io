@@ -99,7 +99,7 @@ Year of Completion: _(2026)_
 - GitHub: https://github.com/sahib-05
 - Phone No.: 9818429891
 - E-mail : sahibsingh9968@gmail.com
-- www.linkedin.com/in/sahib-singh-b534b2271
+- Linkedin : www.linkedin.com/in/sahib-singh-data-analyst
 
 ---
 
