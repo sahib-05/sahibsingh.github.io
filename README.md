@@ -78,10 +78,22 @@ Experienced in building interactive dashboards using Power BI to communicate ins
 
 <table>
   <tr>
-    <td><img src="s1.png" width="400"></td>
-    <td><img src="s3.png" width="400"></td>
-    <td><img src="s4.png" width="400"></td>
-    <td><img src="s5.png" width="400"></td>
+    <td><img src="s1.png" width="500"></td>
+    <td><img src="s3.png" width="500"></td>
+    <td><img src="s4.png" width="500"></td>
+    <td><img src="s5.png" width="500"></td>
+  </tr>
+</table>
+
+### 🎵 Music Store Data Analysis
+- Tool: SQL, PostgreSQL  
+- Analyzed customer purchases, top-selling genres, artist performance, and revenue trends using SQL queries.
+
+<table>
+  <tr>
+    <td><img src="Screenshot (99).png" width="500"></td>
+    <td><img src="Screenshot (100).png" width="500"></td>
+    <td><img src="Screenshot (101).png" width="500"></td>
   </tr>
 </table>
 
