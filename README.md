@@ -69,6 +69,19 @@ Experienced in building interactive dashboards using Power BI to communicate ins
 🗄️ **SQL Queries**
 - [Customer Behavior SQL Queries](customer_behavior_sql_queries.sql)
 
+### 🛒 Zepto SQL Data Analysis
+- Tool: pgAdmin 4, MySQL  
+- Analyzed sales performance, customer orders, and product trends using SQL queries and business insights.
+
+<table>
+  <tr>
+    <td><img src="s1.png" width="400"></td>
+    <td><img src="s2.png" width="400"></td>
+    <td><img src="s3.png" width="400"></td>
+    <td><img src="s4.png" width="400"></td>
+    <td><img src="s5.png" width="400"></td>
+  </tr>
+</table>
 
 ### 📈 Madhav Sales Store Dashboard
 - Tool: Power BI  
