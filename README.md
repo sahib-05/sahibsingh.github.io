@@ -40,6 +40,19 @@ Experienced in building interactive dashboards using Power BI to communicate ins
   </tr>
 </table>
 
+### 🎬 Netflix Movies Analysis
+- Tool: Python, SQL  
+- Analyzed movie trends, ratings, genres, and content performance using data-driven insights.
+
+<table>
+  <tr>
+    <td><img src="net1.png" width="400"></td>
+    <td><img src="net2.png" width="400"></td>
+    <td><img src="net 3.png" width="400"></td>
+    <td><img src="net4.png" width="400"></td>
+  </tr>
+</table>
+
 ### 🔍 Customer Behaviour Analysis (End-to-End)
 - Tools: Python, SQL, Power BI  
 - Performed data cleaning, transformation, and exploratory data analysis.  
