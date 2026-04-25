@@ -27,6 +27,19 @@ Experienced in building interactive dashboards using Power BI to communicate ins
 
 ## 📊 Projects
 
+### 📊 Customer Churn Analysis
+- Tool: Python, SQL  
+- Analyzed customer churn patterns, customer retention rate, and service usage trends using data-driven insights.
+
+<table>
+  <tr>
+    <td><img src="churn1.png" width="400"></td>
+    <td><img src="churn2.png" width="400"></td>
+    <td><img src="churn3.png" width="400"></td>
+    <td><img src="churn 4.png" width="400"></td>
+  </tr>
+</table>
+
 ### 🔍 Customer Behaviour Analysis (End-to-End)
 - Tools: Python, SQL, Power BI  
 - Performed data cleaning, transformation, and exploratory data analysis.  
