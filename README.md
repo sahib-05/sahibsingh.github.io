@@ -15,13 +15,15 @@ Experienced in building interactive dashboards using Power BI to communicate ins
 
 **Tools & Visualization**  
 - Excel  
-- Power BI  
+- Power BI
+- Tableau 
 - Aws(amazon web services) 
 - Google Sheets  
 - Jupyter Notebook  
 
 **Databases**  
-- MySQL  
+- MySQL
+- PostgreSQL
 
 ---
 
@@ -66,8 +68,9 @@ Experienced in building interactive dashboards using Power BI to communicate ins
 - [Business Problem Document](https://sahib-05.github.io/sahibsingh.github.io/Business_Problem_Document.pdf)
 - [Final Analysis Report](Customer_Shopping_Behavior_Analysis_Report.pdf)
 
-🗄️ **SQL Queries**
+🗄️ **SQL Queries and Python file**
 - [Customer Behavior SQL Queries](customer_behavior_sql_queries.sql)
+- [customer_shopping_behaviour_analysis](customer_shopping_behaviour_analysis.ipynb)
 
 ### 🛒 Zepto SQL Data Analysis
 - Tool: pgAdmin 4, MySQL  
