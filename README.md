@@ -76,7 +76,6 @@ Experienced in building interactive dashboards using Power BI to communicate ins
 <table>
   <tr>
     <td><img src="s1.png" width="400"></td>
-    <td><img src="s2.png" width="400"></td>
     <td><img src="s3.png" width="400"></td>
     <td><img src="s4.png" width="400"></td>
     <td><img src="s5.png" width="400"></td>
